@@ -20,11 +20,10 @@ This repo requires the heart of a lion, and the gumption of a squirrel stealing 
 
 RECOMMENDED MODULES
 -------------------
-- Eget nunc 
-- Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+- Big ol Fish 
+- Lil tiny shrimp guy
+- Mid mid crab buddy
+- Mystery lobster
 
 INSTALLATION
 ------------
